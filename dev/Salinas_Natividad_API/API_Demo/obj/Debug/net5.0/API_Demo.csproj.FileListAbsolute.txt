@@ -1,0 +1,33 @@
+/Users/mikesalinas/Desktop/API_Demo/API_Demo/bin/Debug/net5.0/API_Demo.deps.json
+/Users/mikesalinas/Desktop/API_Demo/API_Demo/bin/Debug/net5.0/API_Demo.runtimeconfig.json
+/Users/mikesalinas/Desktop/API_Demo/API_Demo/bin/Debug/net5.0/API_Demo.runtimeconfig.dev.json
+/Users/mikesalinas/Desktop/API_Demo/API_Demo/bin/Debug/net5.0/API_Demo.dll
+/Users/mikesalinas/Desktop/API_Demo/API_Demo/bin/Debug/net5.0/ref/API_Demo.dll
+/Users/mikesalinas/Desktop/API_Demo/API_Demo/bin/Debug/net5.0/API_Demo.pdb
+/Users/mikesalinas/Desktop/API_Demo/API_Demo/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/mikesalinas/Desktop/API_Demo/API_Demo/obj/Debug/net5.0/API_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikesalinas/Desktop/API_Demo/API_Demo/obj/Debug/net5.0/API_Demo.AssemblyInfoInputs.cache
+/Users/mikesalinas/Desktop/API_Demo/API_Demo/obj/Debug/net5.0/API_Demo.AssemblyInfo.cs
+/Users/mikesalinas/Desktop/API_Demo/API_Demo/obj/Debug/net5.0/API_Demo.csproj.CoreCompileInputs.cache
+/Users/mikesalinas/Desktop/API_Demo/API_Demo/obj/Debug/net5.0/API_Demo.csproj.CopyComplete
+/Users/mikesalinas/Desktop/API_Demo/API_Demo/obj/Debug/net5.0/API_Demo.dll
+/Users/mikesalinas/Desktop/API_Demo/API_Demo/obj/Debug/net5.0/ref/API_Demo.dll
+/Users/mikesalinas/Desktop/API_Demo/API_Demo/obj/Debug/net5.0/API_Demo.pdb
+/Users/mikesalinas/Desktop/API_Demo/API_Demo/obj/Debug/net5.0/API_Demo.genruntimeconfig.cache
+/Users/mikesalinas/Desktop/API_Demo 2/API_Demo/bin/Debug/net5.0/API_Demo.deps.json
+/Users/mikesalinas/Desktop/API_Demo 2/API_Demo/bin/Debug/net5.0/API_Demo.runtimeconfig.json
+/Users/mikesalinas/Desktop/API_Demo 2/API_Demo/bin/Debug/net5.0/API_Demo.runtimeconfig.dev.json
+/Users/mikesalinas/Desktop/API_Demo 2/API_Demo/bin/Debug/net5.0/API_Demo.dll
+/Users/mikesalinas/Desktop/API_Demo 2/API_Demo/bin/Debug/net5.0/ref/API_Demo.dll
+/Users/mikesalinas/Desktop/API_Demo 2/API_Demo/bin/Debug/net5.0/API_Demo.pdb
+/Users/mikesalinas/Desktop/API_Demo 2/API_Demo/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/mikesalinas/Desktop/API_Demo 2/API_Demo/obj/Debug/net5.0/API_Demo.csproj.AssemblyReference.cache
+/Users/mikesalinas/Desktop/API_Demo 2/API_Demo/obj/Debug/net5.0/API_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikesalinas/Desktop/API_Demo 2/API_Demo/obj/Debug/net5.0/API_Demo.AssemblyInfoInputs.cache
+/Users/mikesalinas/Desktop/API_Demo 2/API_Demo/obj/Debug/net5.0/API_Demo.AssemblyInfo.cs
+/Users/mikesalinas/Desktop/API_Demo 2/API_Demo/obj/Debug/net5.0/API_Demo.csproj.CoreCompileInputs.cache
+/Users/mikesalinas/Desktop/API_Demo 2/API_Demo/obj/Debug/net5.0/API_Demo.csproj.CopyComplete
+/Users/mikesalinas/Desktop/API_Demo 2/API_Demo/obj/Debug/net5.0/API_Demo.dll
+/Users/mikesalinas/Desktop/API_Demo 2/API_Demo/obj/Debug/net5.0/ref/API_Demo.dll
+/Users/mikesalinas/Desktop/API_Demo 2/API_Demo/obj/Debug/net5.0/API_Demo.pdb
+/Users/mikesalinas/Desktop/API_Demo 2/API_Demo/obj/Debug/net5.0/API_Demo.genruntimeconfig.cache

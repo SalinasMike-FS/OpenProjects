@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yi6ucC89cmEIrzSlgMycmaJUobtxn5HHYLrygHz13q49cMagnS+coizzJscq5mRIoyOZH2nrz/mSsSYnoHwfOw==",
+  "success": true,
+  "projectFilePath": "/Users/mikesalinas/Desktop/API_Demo 2/API_Demo/API_Demo.csproj",
+  "expectedPackageFiles": [
+    "/Users/mikesalinas/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

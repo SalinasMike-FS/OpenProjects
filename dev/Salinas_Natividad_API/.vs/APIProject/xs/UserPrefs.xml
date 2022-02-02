@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{013B5475-827A-4BED-9AB8-028BFB4801C2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="API_Demo/Validation.cs">
+    <Files>
+      <File FileName="API_Demo/API_Connect.cs" Line="8" Column="14" />
+      <File FileName="API_Demo/App.cs" Line="6" Column="14" />
+      <File FileName="API_Demo/Comic.cs" Line="5" Column="14" />
+      <File FileName="API_Demo/ComicSeries.cs" Line="5" Column="14" />
+      <File FileName="API_Demo/Menu.cs" Line="6" Column="14" />
+      <File FileName="API_Demo/Program.cs" Line="5" Column="14" />
+      <File FileName="API_Demo/Validation.cs" Line="5" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="APIProject" expanded="True">
+            <Node name="API_Demo" expanded="True">
+              <Node name="Validation.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.API__Demo PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
